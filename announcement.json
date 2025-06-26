@@ -1,0 +1,30 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "title": "更新内容",
+      "content": "\n本次更新内容：\n1. 新增公告功能\n2. 新增修改显示密度\n3. 修复已知问题\n",
+      "update_time": "2025-06-26",
+      "priority": "high",
+      "type": "update"
+    },
+    {
+      "id": 2,
+      "title": "广告招租",
+      "content": "广告位招租，价格可谈，逆叶box有100+用户，广告将同步至官网和群公告。",
+      "update_time": "2025-06-26",
+      "priority": "normal",
+      "type": "feature"
+    },
+    {
+      "id": 3,
+      "title": "会员专属提醒",
+      "content": "感谢您成为我们的会员用户！\n\n目前会员专属功能：\n✓ 公告查看\n✓ 去除广告（虽然还没有广告）",
+      "update_time": "2025-06-25",
+      "priority": "low",
+      "type": "member"
+    }
+  ],
+  "version": "2.0",
+  "last_updated": "2025-06-26"
+}
